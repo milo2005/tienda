@@ -1,0 +1,7 @@
+class Producto{
+
+	long id;	
+	String nombre;
+	int precio;	
+
+}

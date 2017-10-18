@@ -1,7 +1,8 @@
 class Vendedor{
 	
 	String nombre;
-	String apellido;
+	String apellido
+	String direccion;
 	Date fechaNacimiento;
 	String cedula;	
 
